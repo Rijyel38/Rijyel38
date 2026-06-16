@@ -16,6 +16,11 @@ AI & Automation<br>
 OpenAI API: Document processing, translation, content generation, function calling<br>
 Agent-based systems: Building workflows that route tasks to specialized agents based on context<br>
 
+CMS & WordPress Development<br>
+WordPress: Custom theme development, plugin customization, WooCommerce integration, Elementor, Advanced Custom Fields, and performance optimization
+CMS Integration: WordPress REST API integration with React/Next.js frontends
+Website Maintenance: Bug fixing, responsive layout updates, SEO improvements, speed optimization, and security updates<br>
+
 Front-End Development (for collaboration with your Svelte team)<br>
 
 Frameworks: React, React Native, Vue, Svelte (familiar with component-based architecture)<br>
